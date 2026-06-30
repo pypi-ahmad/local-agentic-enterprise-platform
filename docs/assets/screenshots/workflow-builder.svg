@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="900" viewBox="0 0 1400 900">
+  <rect width="1400" height="900" fill="#09111f"/>
+  <text x="40" y="58" fill="#e2e8f0" font-size="30" font-family="IBM Plex Sans">Workflow Builder Screenshot</text>
+  <g stroke="#00c29a" stroke-width="3" fill="#10243a">
+    <rect x="80" y="220" width="180" height="80" rx="12"/>
+    <rect x="340" y="220" width="180" height="80" rx="12"/>
+    <rect x="600" y="220" width="180" height="80" rx="12"/>
+    <rect x="860" y="220" width="180" height="80" rx="12"/>
+    <rect x="1120" y="220" width="180" height="80" rx="12"/>
+  </g>
+  <g stroke="#94a3b8" stroke-width="3" fill="none">
+    <line x1="260" y1="260" x2="340" y2="260"/>
+    <line x1="520" y1="260" x2="600" y2="260"/>
+    <line x1="780" y1="260" x2="860" y2="260"/>
+    <line x1="1040" y1="260" x2="1120" y2="260"/>
+  </g>
+  <g fill="#e2e8f0" font-size="16" font-family="IBM Plex Sans">
+    <text x="112" y="266">Email Agent</text>
+    <text x="368" y="266">Priority</text>
+    <text x="640" y="266">Planner</text>
+    <text x="904" y="266">Database</text>
+    <text x="1154" y="266">Notify</text>
+  </g>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="900" viewBox="0 0 1400 900">
+  <rect width="1400" height="900" fill="#0f172a"/>
+  <text x="40" y="58" fill="#f8fafc" font-size="30" font-family="IBM Plex Sans">SQL Workspace Screenshot</text>
+  <rect x="60" y="100" width="1280" height="180" rx="12" fill="#1e293b" stroke="#334155"/>
+  <rect x="60" y="320" width="1280" height="180" rx="12" fill="#1e293b" stroke="#334155"/>
+  <rect x="60" y="540" width="1280" height="300" rx="12" fill="#1e293b" stroke="#334155"/>
+  <text x="80" y="150" fill="#facc15" font-size="20" font-family="monospace">Prompt: Show top workflow failures last 7 days</text>
+  <text x="80" y="370" fill="#86efac" font-size="20" font-family="monospace">SELECT status, COUNT(*) FROM workflow_runs ...</text>
+  <text x="80" y="590" fill="#cbd5e1" font-size="18" font-family="monospace">{"safe": true, "rows": [...], "execution_ms": 42}</text>
+</svg>
