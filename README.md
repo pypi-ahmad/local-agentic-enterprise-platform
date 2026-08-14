@@ -290,3 +290,5 @@ For production deployment:
 - Scripts: `scripts/`
 - Reports output: `artifacts/reports/`
 - E2E evidence: `artifacts/e2e/20260630_153730/`
+
+<p align="center">Made with ❤️ by Ahmad Mujtaba</p>
